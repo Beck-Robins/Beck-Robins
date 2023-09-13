@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Beck-Robins
+- 👀 I’m interested in music and coding
+- 🌱 I’m currently learning about Computer Science and Music
+- 📫 You can reach me at robins_b3@denison.edu (school email) or beckrobins@gmail.com (personal email)
+- I have been coding for many years and hope to expand my knowledge of data analysis and coding in different languages during my 4 years at Denison.
